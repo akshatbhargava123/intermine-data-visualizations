@@ -12,9 +12,14 @@
 
 <p class="viz-heading">⛳️ Visualization 1: <b>Tissue Expression Visualizer</b></p>
 
+![image](https://user-images.githubusercontent.com/22184427/63655361-d09c9f00-c7a4-11e9-9b12-8df14f85a2d5.png)
+
 - _Tissue Expression Visualizer_ can help users (biologists) to visualize tissue expression values and tissue expression by stage values with help of expression graphs.
 
 - They easily can let you know which tissues are up-regulated, down-regulated or normal.
+
+![image](https://user-images.githubusercontent.com/22184427/63655378-f9249900-c7a4-11e9-915f-1d8357d9ce88.png)
+
 
 - It provides a clear interface to sort and filter data. Also, expression by stage graph clearly depicts higher expression values on later stages and lower ones earlier based on colour shades.
 
@@ -26,6 +31,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-tissue-expression
 
 <p class="viz-heading">⛳️ Visualization 2: <b>3D Protein Visualizer</b></p>
 
+![image](https://user-images.githubusercontent.com/22184427/63655401-3f79f800-c7a5-11e9-985d-1258f6337e25.png)
+
 - _3D Protein Visualizer_ helps visualize protein structures in different types of viewer in 3D. Users can select the PDB (Protein Data Bank) id they want to visualize and the visualizer fetches them from the RCSB data source and renders the 3D structure of the protein. This tool supports both `Gene` and `Protein` pages in BlueGenes.
 
 Code Repository: https://github.com/intermine/bluegenes-protein-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-protein-visualizer/commits?author=akshatbhargava123))
@@ -35,6 +42,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-visualize
 ---
 
 <p class="viz-heading">⛳️ Visualization 3: <b>Multiple Sequence Alignment Viewer</b></p>
+
+![image](https://user-images.githubusercontent.com/22184427/63655416-53255e80-c7a5-11e9-8b71-0bb5086c794b.png)
 
 - _Multiple Sequence Alignment Viewer_ helps visualize relation and linkages between the proteins associated with a particular gene. For example, check the value of first column the M, M and M being the same colour makes it more eye catching.
 
@@ -48,6 +57,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-msa-viewer
 ---
 
 <p class="viz-heading">⛳️ Visualization 4: <b>Expression Value Box+Swarm Visualizer</b></p>
+
+![image](https://user-images.githubusercontent.com/22184427/63655422-620c1100-c7a5-11e9-9364-d230b62891d3.png)
 
 - _Expression Box+Swarm Visualizer_ helps visualize expression data using combination of box and swarm plots.
 - It shows disease and organism expression data on separate box plots side by side giving a five pointer summary of dataset and clearly showing which organism part has higher expression value and which area needs more attention. On hovering more information is shown.
@@ -63,10 +74,14 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-expression-box-sw
 
 > ### GO Term vs P-value
 
+![image](https://user-images.githubusercontent.com/22184427/63655433-794afe80-c7a5-11e9-84bd-1f5e403a00fc.png)
+
 - It helps visualize GO-term  (Gene Ontology Term) plotted against P values.
 - The enrichment analysis on a list is to see if a particular GO term is over represented in that list like “cancer”.
 
 > ### GO Term vs Gene Count
+
+![image](https://user-images.githubusercontent.com/22184427/63655435-8962de00-c7a5-11e9-9ef2-424aede05227.png)
 
 - It can be used to visualize GO Terms vs Gene Count. Again, each bar in the bar-chart is labelled by the annotation corresponding to the particular GO Term.
 
@@ -79,6 +94,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-go-term-visualize
 
 <p class="viz-heading">⛳️ Visualization 6: <b>Protein Atlas Tissue Expression</b></p>
 
+![image](https://user-images.githubusercontent.com/22184427/63655446-b2836e80-c7a5-11e9-8d71-c37707e872f5.png)
+
 - _Protein Atlas Tissue Expression_ helps visualize overall and singular antibody staining values in different organs and cells respectively.
 - Uses heatmap to properly show different antibody staining levels.
 
@@ -89,6 +106,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-atlas-tis
 ---
 
 <p class="viz-heading">⛳️ Visualization 7 & 8: <b>Tissue and Disease ArrayExpress</b></p>
+
+![image](https://user-images.githubusercontent.com/22184427/63655468-ec547500-c7a5-11e9-802e-db2ecf68cf6f.png)
 
 - Two separate visualisations for tissue and disease expression, using ArrayExpress data from HumanMine.
 
