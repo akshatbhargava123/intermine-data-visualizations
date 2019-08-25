@@ -26,7 +26,7 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-tissue-expression
 
 <p class="viz-heading">⛳️ Visualization 2: <b>3D Protein Visualizer</b></p>
 
-- _3D Protein Visualizer_ helps visualize protein structures in different types of viewer in 3D. Users can select the PDB (Protein Data Bank) id they want to visualize and the visualizer fetches them from the RCSB data source.
+- _3D Protein Visualizer_ helps visualize protein structures in different types of viewer in 3D. Users can select the PDB (Protein Data Bank) id they want to visualize and the visualizer fetches them from the RCSB data source and renders the 3D structure of the protein. This tool supports both `Gene` and `Protein` pages in BlueGenes.
 
 Code Repository: https://github.com/intermine/bluegenes-protein-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-protein-visualizer/commits?author=akshatbhargava123))
 
@@ -49,7 +49,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-msa-viewer
 
 <p class="viz-heading">⛳️ Visualization 4: <b>Expression Value Box+Swarm Visualizer</b></p>
 
-- _Expression Box+Swarm Visualizer_ helps visualize expression data using combination of box and swarm plots. It shows disease and organism expression data on separate box plots side by side giving a five pointer summary of dataset and clearly showing which organism part has higher expression value and which area needs more attention. On hovering more information is shown.
+- _Expression Box+Swarm Visualizer_ helps visualize expression data using combination of box and swarm plots.
+- It shows disease and organism expression data on separate box plots side by side giving a five pointer summary of dataset and clearly showing which organism part has higher expression value and which area needs more attention. On hovering more information is shown.
 
 
 Code Repository: https://github.com/intermine/bluegenes-expression-box-swarm-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-expression-box-swarm-visualizer/commits?author=akshatbhargava123))
@@ -111,3 +112,22 @@ NPM Modules:
 Code Repository: https://github.com/intermine/generator-bluegenes-tool (checkout my commits [here](https://github.com/intermine/generator-bluegenes-tool/commits?author=akshatbhargava123))
 
 ---
+
+Note:
+- Tests were written for all of the above work using `jest` framework.
+- Code linting rules were followed in every part of the code developed by me.
+
+---
+
+
+## 😁 What I am currently working on in GSoC / What code didn't get merged yet?
+
+> EBI Expression Atlas Visualizer
+
+The challenge we're facing currently with this is that the EBI heatmap generator library's `npm` package doesn't work as expected and hence we're doing the script workaround as of now.
+
+Pull Request: https://github.com/intermine/bluegenes-ebi-expression-atlas-heatmap/pull/1
+
+---
+
+Thanks for the great support by my mentors ([@Adrian](https://github.com/adrianbzg), [@Herald](https://github.com/uosl) and [@Yo](https://github.com/yochannah/)). I learned a lot of things in these summers spending time on this project, working with a research team, trying to understand requirements and finally implementing them was overall an amazing experience. We had time to time calls connecting Intermine Community people with each other, discussing how to make open source better and sometimes one to one mentor to student call discussing the project and getting feedback.
