@@ -8,7 +8,7 @@
 <b>The project aimed to develop standalone data visualization tools for BlueGenes which could possibly be useful to biologists using the interface.</b>
 </p>
 
-## 😁 What I developed?
+## 😁 What I worked on?
 
 <p class="viz-heading">⛳️ Visualization 1: <b>Tissue Expression Visualizer</b></p>
 
@@ -38,7 +38,10 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-visualize
 
 - _Multiple Sequence Alignment Viewer_ helps visualize relation and linkages between the proteins associated with a particular gene. For example, check the value of first column the M, M and M being the same colour makes it more eye catching.
 
-Code Repository: https://github.com/intermine/bluegenes-msa-viewer (checkout my commits [here](https://github.com/intermine/bluegenes-msa-viewer/commits?author=akshatbhargava123))
+Code Repositories:
+- Visualizer Frontend: https://github.com/intermine/bluegenes-msa-viewer (checkout my commits [here](https://github.com/intermine/bluegenes-msa-viewer/commits?author=akshatbhargava123))
+
+- Alignment Service: https://github.com/intermine/sequence-alignment-service (checkout my commits [here](https://github.com/intermine/sequence-alignment-service/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-msa-viewer
 
@@ -49,11 +52,7 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-msa-viewer
 - _Expression Box+Swarm Visualizer_ helps visualize expression data using combination of box and swarm plots. It shows disease and organism expression data on separate box plots side by side giving a five pointer summary of dataset and clearly showing which organism part has higher expression value and which area needs more attention. On hovering more information is shown.
 
 
-Code Repositories:
-
-- Visualizer Frontend: https://github.com/intermine/bluegenes-expression-box-swarm-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-expression-box-swarm-visualizer/commits?author=akshatbhargava123))
-
-- Alignment Service: https://github.com/intermine/sequence-alignment-service (checkout my commits [here](https://github.com/intermine/sequence-alignment-service/commits?author=akshatbhargava123))
+Code Repository: https://github.com/intermine/bluegenes-expression-box-swarm-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-expression-box-swarm-visualizer/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-expression-box-swarm-visualizer
 
@@ -99,5 +98,16 @@ Code Repositories:
 NPM Modules:
 - https://www.npmjs.com/package/@intermine/bluegenes-tissue-expression-arrayexpress-visualizer
 - https://www.npmjs.com/package/@intermine/bluegenes-disease-expression-arrayexpress-visualizer
+
+---
+
+<p class="viz-heading">⛳️ Improvements in BlueGenes Tool Scaffolder</p>
+
+- Added `eslint`, `prettier` support out of the box for code linting
+- Added `husky`, `lint-staged` support for before commit / push validation
+- Added `jest` support with example
+- Added optional to choose `react` based scaffolded tool
+
+Code Repository: https://github.com/intermine/generator-bluegenes-tool (checkout my commits [here](https://github.com/intermine/generator-bluegenes-tool/commits?author=akshatbhargava123))
 
 ---
