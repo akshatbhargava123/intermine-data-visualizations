@@ -18,7 +18,7 @@
 
 - It provides a clear interface to sort and filter data. Also, expression by stage graph clearly depicts higher expression values on later stages and lower ones earlier based on colour shades.
 
-Code Repository: https://github.com/intermine/bluegenes-tissue-expression-visualizer
+Code Repository: https://github.com/intermine/bluegenes-tissue-expression-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-tissue-expression-visualizer/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-tissue-expression-visualizer
 
@@ -28,7 +28,7 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-tissue-expression
 
 - _3D Protein Visualizer_ helps visualize protein structures in different types of viewer in 3D. Users can select the PDB (Protein Data Bank) id they want to visualize and the visualizer fetches them from the RCSB data source.
 
-Code Repository: https://github.com/intermine/bluegenes-protein-visualizer
+Code Repository: https://github.com/intermine/bluegenes-protein-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-protein-visualizer/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-visualizer
 
@@ -38,7 +38,7 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-visualize
 
 - _Multiple Sequence Alignment Viewer_ helps visualize relation and linkages between the proteins associated with a particular gene. For example, check the value of first column the M, M and M being the same colour makes it more eye catching.
 
-Code Repository: https://github.com/intermine/bluegenes-msa-viewer
+Code Repository: https://github.com/intermine/bluegenes-msa-viewer (checkout my commits [here](https://github.com/intermine/bluegenes-msa-viewer/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-msa-viewer
 
@@ -51,9 +51,9 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-msa-viewer
 
 Code Repositories:
 
-- Visualizer Frontend: https://github.com/intermine/bluegenes-expression-box-swarm-visualizer
+- Visualizer Frontend: https://github.com/intermine/bluegenes-expression-box-swarm-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-expression-box-swarm-visualizer/commits?author=akshatbhargava123))
 
-- Alignment Service: https://github.com/intermine/sequence-alignment-service
+- Alignment Service: https://github.com/intermine/sequence-alignment-service (checkout my commits [here](https://github.com/intermine/sequence-alignment-service/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-expression-box-swarm-visualizer
 
@@ -71,7 +71,7 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-expression-box-sw
 - It can be used to visualize GO Terms vs Gene Count. Again, each bar in the bar-chart is labelled by the annotation corresponding to the particular GO Term.
 
 
-Code Repository: https://github.com/intermine/bluegenes-GO-term-visualizer
+Code Repository: https://github.com/intermine/bluegenes-GO-term-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-GO-term-visualizer/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-go-term-visualizer
 
@@ -82,7 +82,7 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-go-term-visualize
 - _Protein Atlas Tissue Expression_ helps visualize overall and singular antibody staining values in different organs and cells respectively.
 - Uses heatmap to properly show different antibody staining levels.
 
-Code Repository: https://github.com/intermine/bluegenes-protein-atlas-tissue-expression-visualizer
+Code Repository: https://github.com/intermine/bluegenes-protein-atlas-tissue-expression-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-protein-atlas-tissue-expression-visualizer/commits?author=akshatbhargava123))
 
 NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-atlas-tissue-expression-visualizer
 
@@ -93,8 +93,8 @@ NPM Module: https://www.npmjs.com/package/@intermine/bluegenes-protein-atlas-tis
 - Two separate visualisations for tissue and disease expression, using ArrayExpress data from HumanMine.
 
 Code Repositories:
-- https://github.com/intermine/bluegenes-tissue-expression-arrayexpress-visualizer
-- https://github.com/intermine/bluegenes-disease-expression-arrayexpress-visualizer
+- https://github.com/intermine/bluegenes-tissue-expression-arrayexpress-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-tissue-expression-arrayexpress-visualizer/commits?author=akshatbhargava123))
+- https://github.com/intermine/bluegenes-disease-expression-arrayexpress-visualizer (checkout my commits [here](https://github.com/intermine/bluegenes-disease-expression-arrayexpress-visualizer/commits?author=akshatbhargava123))
 
 NPM Modules:
 - https://www.npmjs.com/package/@intermine/bluegenes-tissue-expression-arrayexpress-visualizer
